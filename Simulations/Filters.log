@@ -1,4 +1,4 @@
-Circuit: * C:\Users\HP\Desktop\Analog project\Filters\Filters.asc
+Circuit: * D:\WaveHarmoney\Circuit\Simulations\Filters.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -27,8 +27,8 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Tue Dec  5 07:30:51 2023
-Total elapsed time: 0.595 seconds.
+Date: Sun Jun 16 23:16:15 2024
+Total elapsed time: 0.428 seconds.
 
 tnom = 27
 temp = 27
@@ -43,5 +43,5 @@ fillins = 453
 solver = Normal
 Avg thread counts: 1.4/0.0/8.0/1.1
 Matrix Compiler1:    1761 opcodes
-Matrix Compiler2: 30.34 KB object code size  3.8/3.4/[2.0]
+Matrix Compiler2: 30.34 KB object code size  2.7/2.6/[1.5]
 
